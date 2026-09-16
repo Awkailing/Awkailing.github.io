@@ -41,7 +41,6 @@ additional_links:
 about_profile_image: images/your-photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Driven, analytical postgraduate student pursuing a <mark>Master of Science in Urban Science, Policy and Planning at SUTD</mark>. Love sports and cooking to unwind. 
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -74,12 +73,12 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: The Smart Local
+        sub_title: Business and Special Project Assistant
+        caption: Feb 2026 - Aug 2026
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          TSL Media Group is an award-winning media tech collective, home to some of the region's most well-loved and creative media brands
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
