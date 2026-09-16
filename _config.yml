@@ -40,6 +40,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/your-photo.jpg
 about_content: | # this will include new lines to allow paragraphs
+  Driven, analytical postgraduate student pursuing a <mark>Master of Science in Urban Science, Policy and Planning at SUTD</mark>. Love sports and cooking to unwind. 
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
